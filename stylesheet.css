@@ -1,0 +1,26 @@
+.main-wrapper{
+  background-image:url(雪道＿背景画像.jpg);
+  height:800px;
+  text-align: center;
+}
+
+.container{
+  padding-top: 100px;
+  font-style: italic;
+}
+.title{
+  font-size: 300px;
+}
+
+.btn{
+  display: inline-block;
+  background-color: #fffaf0;
+  text-align: center;
+  color:black;
+}
+
+header{
+  height:50px;
+  background-color: midnightblue;
+  opacity: 0.8;
+}
